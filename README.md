@@ -43,3 +43,8 @@ untuk menjalankan yang lainnya, gunakan perintah sesuai dengan nama berkasnya.
 ## Refleksi
 
 Melalui tugas ini, saya belajar menggunakan beberapa metode string, seperti strip(), title(), upper(), split(), dan join(). Salah satu kesalahan yang saya temukan adalah lupa menggunakan tanda kurung pada pemanggilan metode string. Akibatnya, program mengalami error saat memproses teks. Saya memperbaikinya dengan menambahkan tanda kurung agar metode dapat dijalankan dan menghasilkan nilai yang sesuai.
+
+## Referensi
+
+Python Software Foundation. The Python Tutorial
+Materi pertemuan 07 Algoritma dan Pemrograman: String dan Pengolahan Teks dalam Python.
